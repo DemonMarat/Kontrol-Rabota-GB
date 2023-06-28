@@ -1,0 +1,15 @@
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\bin\Debug\net6.0\Kontrol-Rabota-GB.exe
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\bin\Debug\net6.0\Kontrol-Rabota-GB.deps.json
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\bin\Debug\net6.0\Kontrol-Rabota-GB.runtimeconfig.json
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\bin\Debug\net6.0\Kontrol-Rabota-GB.dll
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\bin\Debug\net6.0\Kontrol-Rabota-GB.pdb
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\obj\Debug\net6.0\Kontrol-Rabota-GB.csproj.AssemblyReference.cache
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\obj\Debug\net6.0\Kontrol-Rabota-GB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\obj\Debug\net6.0\Kontrol-Rabota-GB.AssemblyInfoInputs.cache
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\obj\Debug\net6.0\Kontrol-Rabota-GB.AssemblyInfo.cs
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\obj\Debug\net6.0\Kontrol-Rabota-GB.csproj.CoreCompileInputs.cache
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\obj\Debug\net6.0\Kontrol-Rabota-GB.dll
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\obj\Debug\net6.0\refint\Kontrol-Rabota-GB.dll
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\obj\Debug\net6.0\Kontrol-Rabota-GB.pdb
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\obj\Debug\net6.0\Kontrol-Rabota-GB.genruntimeconfig.cache
+D:\Учеба айти\Контрольная работа\Kontrol-Rabota-GB\obj\Debug\net6.0\ref\Kontrol-Rabota-GB.dll
