@@ -5,13 +5,15 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-void PrintArrayString(string [] array)
+string[] CreateArray()
 {
-    Console.Write("[");
-    for(int i = 0; i < array.Length; i++)
+    Console.Write("Введите размер массива: ");
+    int size = Convert.ToInt32(Console.ReadLine());
+    string[] array = new string[size];
+    for (int i = 0; i < size; i += 1)
     {
-        if(i != array.Length - 1) Console.Write($"\"{array[i]}\", ");
-        else Console.Write($"\"{array[i]}\"");
+        Console.Write($"Введите {i + 1} элемент массива: ");
+        array[i] = Console.ReadLine();
     }
-    Console.WriteLine("]");
+    return array;
 }
